@@ -1,7 +1,7 @@
-# maxmindApi"
+# Use Location API #
 Use maxmind.com Api to get your location.
 
-# How to use #
+## How to use ##
 - clone repo
 - open index.html
 - html will show your location
@@ -9,3 +9,4 @@ Use maxmind.com Api to get your location.
 
 # Todo #
 - use foursquare api
+- use google location services
